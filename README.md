@@ -18,7 +18,7 @@
 | Slope             | SRTM DEM                         | NASA EarthData              |
 | Wind              | Sample u/v wind data             | NOAA/ERA5                   |
 | Vegetation        | ESA WorldCover or MODIS NDVI     | ESA/Copernicus              |
-| Visualization     | Python (`matplotlib`, `seaborn`) | Google Colab                |
+| Visualization     | Python (`matplotlib`, `seaborn`) | -                           |
 
 4. 🔍 Methodology
 Part 1: Burn Area Detection
